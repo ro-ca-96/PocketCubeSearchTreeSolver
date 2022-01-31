@@ -5,4 +5,5 @@ Solving Pocket Cube using search trees
 Implemented search trees for solving the pocket cube:
 * ** **Astar using different custom heuristic**
 * ** **Breadth-First Search**
+
 These two algorith are combined with **Bidirectional Search**
