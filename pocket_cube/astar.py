@@ -123,6 +123,10 @@ def generate_children(current_node, children, is_start):
 
 
 def append_children(children, open_list, closed_list, current_node, flag_direction, child_number):
+    '''
+    flag_direction: if 1 is used an heuristic, otherwise is used Breadth-First Search,
+                    note that flag_direction could be different in the two directions.
+    '''
     last_list = []
     for child in children:
 
