@@ -1,4 +1,4 @@
-# pocket_cube_search_tree
+# Pocket Cube Search Tree Solver
 Solving Pocket Cube using search trees
 
 # Search Trees
